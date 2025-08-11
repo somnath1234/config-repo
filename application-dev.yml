@@ -1,6 +1,6 @@
 spring:
   datasource:
-    password: devpass
+    password: '{cipher}bf75aaa713d1d424fee9d984c83c9c69e7cd4c2a9d2245b5d93fc610a4d36cc8'
 
 cloud:
   aws:

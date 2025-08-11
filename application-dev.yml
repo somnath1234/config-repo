@@ -1,1 +1,9 @@
+spring:
+  datasource:
+    password: devpass
 
+cloud:
+  aws:
+    credentials:
+      access-key:
+      secret-key:

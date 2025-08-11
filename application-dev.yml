@@ -5,5 +5,5 @@ spring:
 cloud:
   aws:
     credentials:
-      access-key:
-      secret-key:
+      access-key: '{cipher}7a9b4a9ca6d59d680bb40ab9a22cac015bd0b410e8a8be0c4be737cd695da60318e00b54c5c19957b25153519081759f'
+      secret-key: '{cipher}1093fb051c13ee45d282a58ec6c5d20851b42e87197d70b760d0a3246f4476805aa31a0d7983d5db82d820137686eea247781b9df1ec458597d7b5ef5ea64d15'
